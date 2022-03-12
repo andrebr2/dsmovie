@@ -1,0 +1,10 @@
+postgres://
+iahomgmdpnisrv
+:
+6ee815b69c38f9e4d769d3471f39a16246e39e674edd5e6543f3f60276dc95fe
+@
+ec2-44-194-167-63.compute-1.amazonaws.com
+:
+5432
+/
+d43a9kndd3l2d8
